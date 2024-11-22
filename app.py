@@ -7,5 +7,6 @@ import streamlit as st
 # )
 
 # st.write(f'Você escolheu o ano {ano}')
+st.title('Julinha das grécias')
 
 st.image('./julia.png')
